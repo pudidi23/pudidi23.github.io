@@ -405,7 +405,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: #000000;
 }
 
 .about-me .content ul {
@@ -426,7 +426,7 @@ section .container {
 .about-me .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #18d26e;
+  color: #000000;
   line-height: 0;
 }
 
@@ -457,7 +457,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #18d26e;
+  color: #000000;
   border-radius: 50px;
   line-height: 0;
 }
